@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/samis-graf/static/css/main.ed706744.chunk.css",
+    "main.js": "/samis-graf/static/js/main.a960d7f2.chunk.js",
+    "main.js.map": "/samis-graf/static/js/main.a960d7f2.chunk.js.map",
+    "runtime-main.js": "/samis-graf/static/js/runtime-main.57d3d3f3.js",
+    "runtime-main.js.map": "/samis-graf/static/js/runtime-main.57d3d3f3.js.map",
+    "static/js/2.61d4c996.chunk.js": "/samis-graf/static/js/2.61d4c996.chunk.js",
+    "static/js/2.61d4c996.chunk.js.map": "/samis-graf/static/js/2.61d4c996.chunk.js.map",
+    "static/js/3.be9cee89.chunk.js": "/samis-graf/static/js/3.be9cee89.chunk.js",
+    "static/js/3.be9cee89.chunk.js.map": "/samis-graf/static/js/3.be9cee89.chunk.js.map",
+    "index.html": "/samis-graf/index.html",
+    "static/css/main.ed706744.chunk.css.map": "/samis-graf/static/css/main.ed706744.chunk.css.map",
+    "static/js/2.61d4c996.chunk.js.LICENSE.txt": "/samis-graf/static/js/2.61d4c996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d3d3f3.js",
+    "static/js/2.61d4c996.chunk.js",
+    "static/css/main.ed706744.chunk.css",
+    "static/js/main.a960d7f2.chunk.js"
+  ]
+}
